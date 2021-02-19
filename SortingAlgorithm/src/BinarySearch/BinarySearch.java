@@ -1,3 +1,5 @@
+package BinarySearch;
+
 public class BinarySearch {
     public int binarySearch(int[] arr, int key) {
         int low=0; //数组最小索引值
